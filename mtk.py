@@ -5,13 +5,15 @@ k='\x1b[1;93m'
 h='\x1b[1;92m'
 p='\x1b[1;97m'
 bm='\x1b[1;96m'
+b='\x1b[1;95m'
 xenz='''
 {}Pilih Versi Matematika
 {}Gw Saranin Pake python aja soalnya gw ga bisa coding php 😂
+
 {}({}1{}) {}Php
 {}({}2{}) {}Python
 {}({}0{}) {}Exit
-'''.format(h,bm,k,p,k,bm,k,p,k,bm,k,p,k,bm)
+'''.format(h,b,k,p,k,bm,k,p,k,bm,k,p,k,bm)
 def cl():
     os.system('clear')
 def pilih():
