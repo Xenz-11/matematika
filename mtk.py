@@ -7,8 +7,9 @@ p='\x1b[1;97m'
 bm='\x1b[1;96m'
 b='\x1b[1;95m'
 xenz='''
+{}Gw Saranin Pake python aja\nsoalnya gw ga bisa coding php 😂
+
 {}Pilih Versi Matematika
-{}Gw Saranin Pake python aja soalnya gw ga bisa coding php 😂
 
 {}({}1{}) {}Php
 {}({}2{}) {}Python
