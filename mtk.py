@@ -20,12 +20,10 @@ def pilih():
     p=int(input('\x1b[1;97m┌─[ \x1b[1;96mXENZ \x1b[1;97m]\n\x1b[1;97m└─▸ \x1b[1;93m'))
     if p == 1:
        cl()
-       os.system('cd module')
-       os.system('php mtk.php')
+       os.system('cd module\nphp mtk.php')
     elif p == 2:
          cl()
-         os.system('cd module')
-         os.system('python2 mtk.py')
+         os.system('cd module\npython2 mtk.py')
     elif p == 0:
          cl()
          sys.exit()
